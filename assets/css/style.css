@@ -1,0 +1,59 @@
+.container
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    font-size: 0;
+}
+.element_blue_1
+{
+  width:100%;
+  height: 20%;
+  background-color:#0000FE;
+}
+.element_red
+{
+  width:100%;
+  height: 10%;
+  background-color:#FE0000;
+}
+.element_multi
+{
+  width: 100%;
+  height: 60%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.element_orange
+{
+  width: 18%;
+  height:100%;
+  background-color:#FFA500;
+}
+.element_blue_2
+{
+  width: 58%;
+  height: 100%;
+  background-color:#0000FE;
+}
+.element_green
+{
+  width: 22%;
+  height: 100%;
+  background-color:#008001;
+}
+.element_white
+{
+  width: 100%;
+  height: 3%;
+  background-color:white;
+}
+.element_white_1
+{
+  width: 1%;
+  height: 100%;
+  background-color:white;
+}
